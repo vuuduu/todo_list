@@ -60,7 +60,6 @@ This document outlines the API endpoints for managing groups, to-do lists, and t
 
 - Adds a new to-do list to the specified group.
 
----
 
 ## To-Do List Endpoints
 
@@ -88,7 +87,6 @@ This document outlines the API endpoints for managing groups, to-do lists, and t
 
 - Deletes a specific to-do list.
 
----
 
 ## Task Endpoints
 
