@@ -114,7 +114,6 @@ This document outlines the API endpoints for managing groups, to-do lists, and t
 
 - Deletes a specific task from a specific to-do list.
 
----
 
 This document will be updated as the API evolves. Let us know if any changes or improvements are needed!
 
